@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThierryCoul
-- 👀 I’m interested in data science and scpecifically in econometrics
+- 👀 I’m interested in data science and econometrics
 - 📫 You can reach at yerema.coul@gmail.com
 
 <!---
